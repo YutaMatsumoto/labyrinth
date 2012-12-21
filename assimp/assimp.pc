@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=/usr/local/
+libdir=/usr/local/
+includedir=/usr/local//assimp
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 3.0.1264
+Libs: -L${libdir} -lassimp
+Cflags: -I${includedir} 

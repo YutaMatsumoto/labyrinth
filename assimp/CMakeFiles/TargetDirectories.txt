@@ -1,0 +1,3 @@
+/home/yuta/icehockey/assimp/code/CMakeFiles/assimp.dir
+/home/yuta/icehockey/assimp/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+/home/yuta/icehockey/assimp/CMakeFiles/uninstall.dir
